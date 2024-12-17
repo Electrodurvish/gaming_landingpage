@@ -5,13 +5,7 @@ Welcome to the **Gaming Landing Page**! This project showcases an attractive and
 
 ---
 
-## 📸 Screenshot
 
-Here’s a preview of the project:
-
-![Gaming Landing Page Screenshot](C:/Users/Lenovo/Pictures/Screenshots/Screenshot%202024-12-17%20234218.png)
-
----
 
 ## 🚀 Features
 
